@@ -97,7 +97,7 @@ npm run dev
 
 ## 👥 Team
 
-**Developer:** AI Agent Builder  
+**Developer:** Hexadev Technologies  
 **Collaboration:** Hexadev Technologies x KKI DPC GMNI Depok  
 **Users:** 5 core team members
 
