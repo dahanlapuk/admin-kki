@@ -1,6 +1,6 @@
 # Dashboard Admin KKI - GMNI DPC Depok
 
-![Version](https://img.shields.io/badge/version-1.0.0-blue.svg)
+![Version](https://img.shields.io/badge/version-2.1.0-blue.svg)
 ![Status](https://img.shields.io/badge/status-development-yellow.svg)
 
 Dashboard manajemen konten untuk Kantor Komunikasi dan Informasi (KKI) DPC GMNI Depok.
@@ -114,4 +114,4 @@ Untuk bantuan atau pertanyaan, hubungi:
 ---
 
 **Status:** 🚧 Under Development  
-**Last Update:** 2025-11-21
+**Last Update:** 2025-11-22

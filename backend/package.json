@@ -1,6 +1,6 @@
 {
   "name": "admin-kki-backend",
-  "version": "1.0.0",
+  "version": "2.1.0",
   "description": "Backend API for KKI Dashboard - GMNI Depok",
   "main": "dist/server.js",
   "scripts": {
